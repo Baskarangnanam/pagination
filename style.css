@@ -1,0 +1,35 @@
+/* ..................table list ................... */
+
+
+.table-width {
+    width       : 80%;
+    display     : block;
+    margin-left : auto;
+    margin-right: auto;
+}
+
+.table-text-align {
+    width     : 100%;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+
+}
+
+td,
+th {
+    border : 1px solid #dddddd;
+    padding: 8px;
+}
+
+th {
+    background-color: rgb(2, 2, 179);
+    color           : white;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+}
